@@ -1,0 +1,21 @@
+TOPIC
+    RDP Management module
+
+SHORT DESCRIPTION
+    The RDP Management module is inteneded to help users setup there Windows clients for using Private PKI issued certificates for RDP connections.
+
+LONG DESCRIPTION
+    The RDP Management module is inteneded to help users setup there Windows clients for using Private PKI issued certificates from Active Directory Certificates Services intended for RDP connections to such system.
+
+EXAMPLES
+    
+    get-RDPcert
+    check-cert
+    remove-cert                                                                                                                                                                                                          
+
+
+KEYWORDS
+    RDP, Remote Desktop, Active Directory Certificates Services
+
+SEE ALSO
+    N\A
